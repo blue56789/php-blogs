@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "php": "php -S localhost:4000",
+    "tail": "tailwindcss -i input.css -o output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
